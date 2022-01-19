@@ -1,5 +1,5 @@
 # Midnight Madness
 
 <a href="https://dstorr.github.io/midnightmadness.github.io/">
-  <img src="images/Aqua%20Fresh.png">
+  <img src="images/midnight%20madness.png">
 </a>
